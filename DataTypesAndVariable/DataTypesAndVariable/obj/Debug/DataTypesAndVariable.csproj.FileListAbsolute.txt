@@ -1,0 +1,7 @@
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\bin\Debug\DataTypesAndVariable.exe.config
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\bin\Debug\DataTypesAndVariable.exe
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\bin\Debug\DataTypesAndVariable.pdb
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\obj\Debug\DataTypesAndVariable.csprojAssemblyReference.cache
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\obj\Debug\DataTypesAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\obj\Debug\DataTypesAndVariable.exe
+C:\Users\vunna\source\repos\DataTypesAndVariable\DataTypesAndVariable\obj\Debug\DataTypesAndVariable.pdb

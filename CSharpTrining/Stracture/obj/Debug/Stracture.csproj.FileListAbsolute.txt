@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\Stracture\bin\Debug\Stracture.exe.config
+D:\C#\Practice\CSharpTrining\Stracture\bin\Debug\Stracture.exe
+D:\C#\Practice\CSharpTrining\Stracture\bin\Debug\Stracture.pdb
+D:\C#\Practice\CSharpTrining\Stracture\obj\Debug\Stracture.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Stracture\obj\Debug\Stracture.exe
+D:\C#\Practice\CSharpTrining\Stracture\obj\Debug\Stracture.pdb

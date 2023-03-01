@@ -1,0 +1,7 @@
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\bin\Debug\OOADimplementWithRelationsip.exe.config
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\bin\Debug\OOADimplementWithRelationsip.exe
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\bin\Debug\OOADimplementWithRelationsip.pdb
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\obj\Debug\Trinee_Triner_Course.csprojAssemblyReference.cache
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\obj\Debug\Trinee_Triner_Course.csproj.CoreCompileInputs.cache
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\obj\Debug\OOADimplementWithRelationsip.exe
+D:\C#\Practice\OOADimplementWithRelationsip\OOADimplementWithRelationsip\obj\Debug\OOADimplementWithRelationsip.pdb

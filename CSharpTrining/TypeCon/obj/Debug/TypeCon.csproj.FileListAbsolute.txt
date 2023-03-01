@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\TypeCon\bin\Debug\TypeCon.exe.config
+D:\C#\Practice\CSharpTrining\TypeCon\bin\Debug\TypeCon.exe
+D:\C#\Practice\CSharpTrining\TypeCon\bin\Debug\TypeCon.pdb
+D:\C#\Practice\CSharpTrining\TypeCon\obj\Debug\TypeCon.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\TypeCon\obj\Debug\TypeCon.exe
+D:\C#\Practice\CSharpTrining\TypeCon\obj\Debug\TypeCon.pdb

@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\bin\Debug\ExceptionHandle2.exe.config
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\bin\Debug\ExceptionHandle2.exe
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\bin\Debug\ExceptionHandle2.pdb
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\obj\Debug\ExceptionHandle2.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\obj\Debug\ExceptionHandle2.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\obj\Debug\ExceptionHandle2.exe
+D:\C#\Practice\CSharpTrining\ExceptionHandle2\obj\Debug\ExceptionHandle2.pdb

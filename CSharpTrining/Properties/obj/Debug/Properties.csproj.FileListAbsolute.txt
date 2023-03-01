@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\Properties\bin\Debug\Properties.exe.config
+D:\C#\Practice\CSharpTrining\Properties\bin\Debug\Properties.exe
+D:\C#\Practice\CSharpTrining\Properties\bin\Debug\Properties.pdb
+D:\C#\Practice\CSharpTrining\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Properties\obj\Debug\Properties.exe
+D:\C#\Practice\CSharpTrining\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Inheritance\bin\Debug\Inheritance.exe.config
+D:\C#\Practice\CSharpTrining\Inheritance\bin\Debug\Inheritance.exe
+D:\C#\Practice\CSharpTrining\Inheritance\bin\Debug\Inheritance.pdb
+D:\C#\Practice\CSharpTrining\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Inheritance\obj\Debug\Inheritance.exe
+D:\C#\Practice\CSharpTrining\Inheritance\obj\Debug\Inheritance.pdb
+D:\C#\Practice\CSharpTrining\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache

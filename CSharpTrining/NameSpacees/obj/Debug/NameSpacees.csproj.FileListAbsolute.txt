@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\NameSpacees\bin\Debug\NameSpacees.exe.config
+D:\C#\Practice\CSharpTrining\NameSpacees\bin\Debug\NameSpacees.exe
+D:\C#\Practice\CSharpTrining\NameSpacees\bin\Debug\NameSpacees.pdb
+D:\C#\Practice\CSharpTrining\NameSpacees\obj\Debug\NameSpacees.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\NameSpacees\obj\Debug\NameSpacees.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\NameSpacees\obj\Debug\NameSpacees.exe
+D:\C#\Practice\CSharpTrining\NameSpacees\obj\Debug\NameSpacees.pdb

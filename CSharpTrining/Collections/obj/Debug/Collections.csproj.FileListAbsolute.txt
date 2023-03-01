@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Collections\bin\Debug\Collections.exe.config
+D:\C#\Practice\CSharpTrining\Collections\bin\Debug\Collections.exe
+D:\C#\Practice\CSharpTrining\Collections\bin\Debug\Collections.pdb
+D:\C#\Practice\CSharpTrining\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Collections\obj\Debug\Collections.exe
+D:\C#\Practice\CSharpTrining\Collections\obj\Debug\Collections.pdb

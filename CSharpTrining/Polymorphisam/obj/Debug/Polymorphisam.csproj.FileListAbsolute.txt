@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\Polymorphisam\bin\Debug\Polymorphisam.exe.config
+D:\C#\Practice\CSharpTrining\Polymorphisam\bin\Debug\Polymorphisam.exe
+D:\C#\Practice\CSharpTrining\Polymorphisam\bin\Debug\Polymorphisam.pdb
+D:\C#\Practice\CSharpTrining\Polymorphisam\obj\Debug\Polymorphisam.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Polymorphisam\obj\Debug\Polymorphisam.exe
+D:\C#\Practice\CSharpTrining\Polymorphisam\obj\Debug\Polymorphisam.pdb

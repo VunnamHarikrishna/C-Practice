@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\OPerators\bin\Debug\OPerators.exe.config
+D:\C#\Practice\CSharpTrining\OPerators\bin\Debug\OPerators.exe
+D:\C#\Practice\CSharpTrining\OPerators\bin\Debug\OPerators.pdb
+D:\C#\Practice\CSharpTrining\OPerators\obj\Debug\OPerators.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\OPerators\obj\Debug\OPerators.exe
+D:\C#\Practice\CSharpTrining\OPerators\obj\Debug\OPerators.pdb
+D:\C#\Practice\CSharpTrining\OPerators\obj\Debug\OPerators.csprojAssemblyReference.cache

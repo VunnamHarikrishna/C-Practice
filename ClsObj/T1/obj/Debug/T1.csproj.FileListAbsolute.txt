@@ -1,0 +1,6 @@
+D:\C#\Practice\ClsObj\T1\bin\Debug\T1.exe.config
+D:\C#\Practice\ClsObj\T1\bin\Debug\T1.exe
+D:\C#\Practice\ClsObj\T1\bin\Debug\T1.pdb
+D:\C#\Practice\ClsObj\T1\obj\Debug\T1.csproj.CoreCompileInputs.cache
+D:\C#\Practice\ClsObj\T1\obj\Debug\T1.exe
+D:\C#\Practice\ClsObj\T1\obj\Debug\T1.pdb

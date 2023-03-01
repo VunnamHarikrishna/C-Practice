@@ -1,0 +1,7 @@
+D:\C#\Practice\ClsObj\ClsObj\bin\Debug\ClsObj.exe.config
+D:\C#\Practice\ClsObj\ClsObj\bin\Debug\ClsObj.exe
+D:\C#\Practice\ClsObj\ClsObj\bin\Debug\ClsObj.pdb
+D:\C#\Practice\ClsObj\ClsObj\obj\Debug\ClsObj.csprojAssemblyReference.cache
+D:\C#\Practice\ClsObj\ClsObj\obj\Debug\ClsObj.csproj.CoreCompileInputs.cache
+D:\C#\Practice\ClsObj\ClsObj\obj\Debug\ClsObj.exe
+D:\C#\Practice\ClsObj\ClsObj\obj\Debug\ClsObj.pdb

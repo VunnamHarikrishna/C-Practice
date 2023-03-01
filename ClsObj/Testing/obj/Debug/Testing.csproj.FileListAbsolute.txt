@@ -1,0 +1,7 @@
+D:\C#\Practice\ClsObj\Testing\bin\Debug\Testing.exe.config
+D:\C#\Practice\ClsObj\Testing\bin\Debug\Testing.exe
+D:\C#\Practice\ClsObj\Testing\bin\Debug\Testing.pdb
+D:\C#\Practice\ClsObj\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+D:\C#\Practice\ClsObj\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\C#\Practice\ClsObj\Testing\obj\Debug\Testing.exe
+D:\C#\Practice\ClsObj\Testing\obj\Debug\Testing.pdb

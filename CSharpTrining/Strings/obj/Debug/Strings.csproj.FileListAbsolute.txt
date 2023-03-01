@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\Strings\bin\Debug\Strings.exe.config
+D:\C#\Practice\CSharpTrining\Strings\bin\Debug\Strings.exe
+D:\C#\Practice\CSharpTrining\Strings\bin\Debug\Strings.pdb
+D:\C#\Practice\CSharpTrining\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Strings\obj\Debug\Strings.exe
+D:\C#\Practice\CSharpTrining\Strings\obj\Debug\Strings.pdb

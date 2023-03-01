@@ -1,0 +1,7 @@
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\obj\Debug\CollectionListTest.csprojAssemblyReference.cache
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\obj\Debug\CollectionListTest.csproj.CoreCompileInputs.cache
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\bin\Debug\CollectionListTest.exe.config
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\bin\Debug\CollectionListTest.exe
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\bin\Debug\CollectionListTest.pdb
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\obj\Debug\CollectionListTest.exe
+C:\Users\vunna\source\repos\CollectionListTest\CollectionListTest\obj\Debug\CollectionListTest.pdb

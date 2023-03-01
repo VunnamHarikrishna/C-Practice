@@ -1,0 +1,7 @@
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\obj\Debug\StudentsArrayList.csprojAssemblyReference.cache
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\obj\Debug\StudentsArrayList.csproj.CoreCompileInputs.cache
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\bin\Debug\StudentsArrayList.exe.config
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\bin\Debug\StudentsArrayList.exe
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\bin\Debug\StudentsArrayList.pdb
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\obj\Debug\StudentsArrayList.exe
+D:\C#\Practice\StudentsArrayList\StudentsArrayList\obj\Debug\StudentsArrayList.pdb

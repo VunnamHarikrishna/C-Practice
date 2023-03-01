@@ -1,0 +1,12 @@
+D:\C#\Practice\CSharpTrining\DataTypes\bin\Debug\DataTypes.exe.config
+D:\C#\Practice\CSharpTrining\DataTypes\bin\Debug\DataTypes.exe
+D:\C#\Practice\CSharpTrining\DataTypes\bin\Debug\DataTypes.pdb
+D:\C#\Practice\CSharpTrining\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\DataTypes\obj\Debug\DataTypes.exe
+D:\C#\Practice\CSharpTrining\DataTypes\obj\Debug\DataTypes.pdb
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\bin\Debug\DataTypes.exe.config
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\bin\Debug\DataTypes.exe
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\bin\Debug\DataTypes.pdb
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\obj\Debug\DataTypes.exe
+D:\Hari\C#\Practice\Practice\TopicwisePractice\CSharpTrining\DataTypes\obj\Debug\DataTypes.pdb

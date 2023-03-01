@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Selectionst\bin\Debug\Selectionst.exe.config
+D:\C#\Practice\CSharpTrining\Selectionst\bin\Debug\Selectionst.exe
+D:\C#\Practice\CSharpTrining\Selectionst\bin\Debug\Selectionst.pdb
+D:\C#\Practice\CSharpTrining\Selectionst\obj\Debug\Selectionst.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\Selectionst\obj\Debug\Selectionst.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Selectionst\obj\Debug\Selectionst.exe
+D:\C#\Practice\CSharpTrining\Selectionst\obj\Debug\Selectionst.pdb

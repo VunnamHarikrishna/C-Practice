@@ -1,0 +1,7 @@
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\bin\Debug\TrinerTrinee.exe.config
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\bin\Debug\TrinerTrinee.exe
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\bin\Debug\TrinerTrinee.pdb
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\obj\Debug\TrinerTrinee.csprojAssemblyReference.cache
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\obj\Debug\TrinerTrinee.csproj.CoreCompileInputs.cache
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\obj\Debug\TrinerTrinee.exe
+D:\C#\Practice\TrinerTrinee\TrinerTrinee\obj\Debug\TrinerTrinee.pdb

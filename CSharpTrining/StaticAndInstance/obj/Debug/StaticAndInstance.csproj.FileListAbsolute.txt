@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\StaticAndInstance\obj\Debug\StaticAndInstance.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\StaticAndInstance\obj\Debug\StaticAndInstance.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\StaticAndInstance\bin\Debug\StaticAndInstance.exe.config
+D:\C#\Practice\CSharpTrining\StaticAndInstance\bin\Debug\StaticAndInstance.exe
+D:\C#\Practice\CSharpTrining\StaticAndInstance\bin\Debug\StaticAndInstance.pdb
+D:\C#\Practice\CSharpTrining\StaticAndInstance\obj\Debug\StaticAndInstance.exe
+D:\C#\Practice\CSharpTrining\StaticAndInstance\obj\Debug\StaticAndInstance.pdb

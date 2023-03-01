@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Delegates\bin\Debug\Delegates.exe.config
+D:\C#\Practice\CSharpTrining\Delegates\bin\Debug\Delegates.exe
+D:\C#\Practice\CSharpTrining\Delegates\bin\Debug\Delegates.pdb
+D:\C#\Practice\CSharpTrining\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Delegates\obj\Debug\Delegates.exe
+D:\C#\Practice\CSharpTrining\Delegates\obj\Debug\Delegates.pdb

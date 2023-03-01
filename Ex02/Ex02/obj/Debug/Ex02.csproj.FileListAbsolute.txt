@@ -1,0 +1,7 @@
+D:\C#\Practice\Ex02\Ex02\bin\Debug\Ex02.exe.config
+D:\C#\Practice\Ex02\Ex02\bin\Debug\Ex02.exe
+D:\C#\Practice\Ex02\Ex02\bin\Debug\Ex02.pdb
+D:\C#\Practice\Ex02\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache
+D:\C#\Practice\Ex02\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Ex02\Ex02\obj\Debug\Ex02.exe
+D:\C#\Practice\Ex02\Ex02\obj\Debug\Ex02.pdb

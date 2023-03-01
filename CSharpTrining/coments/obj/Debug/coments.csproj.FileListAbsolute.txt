@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\coments\bin\Debug\coments.exe.config
+D:\C#\Practice\CSharpTrining\coments\bin\Debug\coments.exe
+D:\C#\Practice\CSharpTrining\coments\bin\Debug\coments.pdb
+D:\C#\Practice\CSharpTrining\coments\obj\Debug\coments.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\coments\obj\Debug\coments.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\coments\obj\Debug\coments.exe
+D:\C#\Practice\CSharpTrining\coments\obj\Debug\coments.pdb

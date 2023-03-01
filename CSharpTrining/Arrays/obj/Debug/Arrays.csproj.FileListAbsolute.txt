@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Arrays\bin\Debug\Arrays.exe.config
+D:\C#\Practice\CSharpTrining\Arrays\bin\Debug\Arrays.exe
+D:\C#\Practice\CSharpTrining\Arrays\bin\Debug\Arrays.pdb
+D:\C#\Practice\CSharpTrining\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Arrays\obj\Debug\Arrays.exe
+D:\C#\Practice\CSharpTrining\Arrays\obj\Debug\Arrays.pdb

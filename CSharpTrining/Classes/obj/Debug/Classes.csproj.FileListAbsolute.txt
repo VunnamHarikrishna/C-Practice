@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\Classes\bin\Debug\Classes.exe.config
+D:\C#\Practice\CSharpTrining\Classes\bin\Debug\Classes.exe
+D:\C#\Practice\CSharpTrining\Classes\bin\Debug\Classes.pdb
+D:\C#\Practice\CSharpTrining\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Classes\obj\Debug\Classes.exe
+D:\C#\Practice\CSharpTrining\Classes\obj\Debug\Classes.pdb

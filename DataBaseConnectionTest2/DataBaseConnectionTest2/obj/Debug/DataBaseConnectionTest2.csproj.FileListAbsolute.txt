@@ -1,0 +1,7 @@
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\bin\Debug\DataBaseConnectionTest2.exe.config
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\bin\Debug\DataBaseConnectionTest2.exe
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\bin\Debug\DataBaseConnectionTest2.pdb
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\obj\Debug\DataBaseConnectionTest2.csprojAssemblyReference.cache
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\obj\Debug\DataBaseConnectionTest2.csproj.CoreCompileInputs.cache
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\obj\Debug\DataBaseConnectionTest2.exe
+D:\C#\Practice\DataBaseConnectionTest2\DataBaseConnectionTest2\obj\Debug\DataBaseConnectionTest2.pdb

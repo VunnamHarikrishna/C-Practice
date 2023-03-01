@@ -1,0 +1,7 @@
+D:\C#\Practice\CSharpTrining\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C#\Practice\CSharpTrining\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C#\Practice\CSharpTrining\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C#\Practice\CSharpTrining\ConsoleApp1\obj\Debug\ittarativest.csprojAssemblyReference.cache
+D:\C#\Practice\CSharpTrining\ConsoleApp1\obj\Debug\ittarativest.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C#\Practice\CSharpTrining\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

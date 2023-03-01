@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpTrining\Introduction\bin\Debug\Introduction.exe.config
+D:\C#\Practice\CSharpTrining\Introduction\bin\Debug\Introduction.exe
+D:\C#\Practice\CSharpTrining\Introduction\bin\Debug\Introduction.pdb
+D:\C#\Practice\CSharpTrining\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+D:\C#\Practice\CSharpTrining\Introduction\obj\Debug\Introduction.exe
+D:\C#\Practice\CSharpTrining\Introduction\obj\Debug\Introduction.pdb

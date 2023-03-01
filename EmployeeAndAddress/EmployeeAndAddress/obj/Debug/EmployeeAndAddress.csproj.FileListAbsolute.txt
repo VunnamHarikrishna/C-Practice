@@ -1,0 +1,7 @@
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\bin\Debug\EmployeeAndAddress.exe.config
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\bin\Debug\EmployeeAndAddress.exe
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\bin\Debug\EmployeeAndAddress.pdb
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\obj\Debug\EmployeeAndAddress.csprojAssemblyReference.cache
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\obj\Debug\EmployeeAndAddress.csproj.CoreCompileInputs.cache
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\obj\Debug\EmployeeAndAddress.exe
+D:\C#\Practice\EmployeeAndAddress\EmployeeAndAddress\obj\Debug\EmployeeAndAddress.pdb

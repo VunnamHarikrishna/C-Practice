@@ -1,0 +1,7 @@
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\bin\Debug\BaseAndDerived.exe.config
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\bin\Debug\BaseAndDerived.exe
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\bin\Debug\BaseAndDerived.pdb
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\obj\Debug\BaseAndDerived.csprojAssemblyReference.cache
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\obj\Debug\BaseAndDerived.csproj.CoreCompileInputs.cache
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\obj\Debug\BaseAndDerived.exe
+D:\C#\Practice\BaseAndDerived\BaseAndDerived\obj\Debug\BaseAndDerived.pdb
